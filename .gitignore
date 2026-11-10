@@ -1,0 +1,7 @@
+/target
+**/target
+*.pdb
+.env
+.idea/
+.venv/
+__pycache__/
